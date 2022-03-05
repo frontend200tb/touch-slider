@@ -1,6 +1,6 @@
 # touch-slider
 
-Иван Каширин. Тестовое задание на позицию frontend в компанию Neuro City
+Иван Каширин. Тестовое задание 1 из 8 на позицию frontend в компанию Neuro City
 
 https://frontend200tb.github.io/touch-slider/
 
