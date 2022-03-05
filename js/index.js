@@ -1,4 +1,4 @@
-console.log('frontend200tb touch slider');
+console.log('start frontend200tb touch slider');
 
 
 /*****************
@@ -211,4 +211,4 @@ arrows.addEventListener('click', function() {
   slide();
 });
 
-console.log('frontend200tb memory finish');
+console.log('end frontend200tb touch slider');
